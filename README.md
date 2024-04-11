@@ -65,6 +65,6 @@ Check the file uploading in this repository
 2. Replace the Ultrasonic Sensor with a sharp IR Sensor for faster sensor reading and add more sensors for better movement.
 3. Add a LIDAR system for Mapping the room and use that for navigation.
 
-
+## Project details:
 This is the project titled **‘Wall Curing Bot’** by **P. Aarushraj, P. Madhavi, M. Ankitha, K. Bharath chandra and B. Rajmohan**. 
 This is a record of the project work carried out by us, during the year **2022-2023** as part of **POST INDUCTION** under the guidance and supervision of **Mr D.P. Naga Ajay Kumar & Ms P. Tapaswini** (Technical Heads) and **Mr T. Bharat Kumar** (The President of THE ROBOTICS CLUB)
